@@ -1,2 +1,2 @@
 # sedgoak
-Test buiklding a git repository for sedg demography work
+Test building a git repository for sedg demography work
